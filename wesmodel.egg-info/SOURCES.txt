@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+wesmodel/__init__.py
+wesmodel/classify.py
+wesmodel/condense.py
+wesmodel/modeler.py
+wesmodel/summarize.py
+wesmodel.egg-info/PKG-INFO
+wesmodel.egg-info/SOURCES.txt
+wesmodel.egg-info/dependency_links.txt
+wesmodel.egg-info/requires.txt
+wesmodel.egg-info/top_level.txt
